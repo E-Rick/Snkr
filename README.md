@@ -2,7 +2,7 @@
 
 Snkr is a RESTful fullstack web app inspired by Nike SNKRS that I created to develop my designer and fullstack development skills using the NEMO stack (Node.js, Express, MongoDB, Other Stuff). 
 
-## Features
+## Development Status
 
 Snkr is currently under development for deployment.
 
@@ -24,6 +24,7 @@ Snkr is currently under development for deployment.
 * MongoDB 
 * Ejs
 * Passport.js
+* Cloudinary
 
 ## Setup Up
 
