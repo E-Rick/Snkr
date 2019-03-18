@@ -37,7 +37,6 @@
     let imgDeletions = document.querySelectorAll('.imageDeleteCheckbox:checked').length;
     // figure out if the form can be submitted or not
     let newTotal = existingImgs - imgDeletions + imageUploads;
-    debugger;
     if (newTotal > 4) {
       event.preventDefault();
       let removalAmt = newTotal - 4;
